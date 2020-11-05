@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student>
+		<id>1</id>
+		<name>mark</name>
+		<dob>11/2/99</dob>
+		<score>90</score>
+	</student>
+
+	<student>
+		<id>2</id>
+		<name>park</name>
+		<dob>12/6/99</dob>
+		<score>93</score>
+	</student>
+
+	<student>
+		<id>3</id>
+		<name>dark</name>
+		<dob>14/12/99</dob>
+		<score>78</score>
+	</student>
+
+	<student>
+		<id>4</id>
+		<name>shark</name>
+		<dob>1/4/99</dob>
+		<score>100</score>
+	</student>
+
+</students>
